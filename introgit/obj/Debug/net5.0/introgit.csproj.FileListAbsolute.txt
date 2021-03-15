@@ -14,3 +14,19 @@ C:\Users\user\Documents\laboratorios\githut\repositorio1\introgit\obj\Debug\net5
 C:\Users\user\Documents\laboratorios\githut\repositorio1\introgit\obj\Debug\net5.0\ref\introgit.dll
 C:\Users\user\Documents\laboratorios\githut\repositorio1\introgit\obj\Debug\net5.0\introgit.pdb
 C:\Users\user\Documents\laboratorios\githut\repositorio1\introgit\obj\Debug\net5.0\introgit.genruntimeconfig.cache
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.exe
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.deps.json
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.runtimeconfig.json
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.runtimeconfig.dev.json
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.dll
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\ref\introgit.dll
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\bin\Debug\net5.0\introgit.pdb
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.csprojAssemblyReference.cache
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.AssemblyInfoInputs.cache
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.AssemblyInfo.cs
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.csproj.CoreCompileInputs.cache
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.dll
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\ref\introgit.dll
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.pdb
+D:\Eduardo Rodriguez\Documents\Labs\Rama01\Criaturitasdelse-or_POO012021\introgit\obj\Debug\net5.0\introgit.genruntimeconfig.cache

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\eduar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\introgit.csproj",
+      "projectUniqueName": "D:\\Eduardo Rodriguez\\Documents\\Labs\\Rama01\\Criaturitasdelse-or_POO012021\\introgit\\introgit.csproj",
       "projectName": "introgit",
-      "projectPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\introgit.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\obj\\",
+      "projectPath": "D:\\Eduardo Rodriguez\\Documents\\Labs\\Rama01\\Criaturitasdelse-or_POO012021\\introgit\\introgit.csproj",
+      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+      "outputPath": "D:\\Eduardo Rodriguez\\Documents\\Labs\\Rama01\\Criaturitasdelse-or_POO012021\\introgit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
