@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\introgit.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\rama02\\Criaturitasdelse-or_POO012021\\introgit\\introgit.csproj",
       "projectName": "introgit",
-      "projectPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\introgit.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\rama02\\Criaturitasdelse-or_POO012021\\introgit\\introgit.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\introgit\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\laboratorios\\githut\\repositorio1\\rama02\\Criaturitasdelse-or_POO012021\\introgit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
